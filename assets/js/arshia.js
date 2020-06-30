@@ -1,8 +1,5 @@
 /*-----------------------------------------------------------
-* Template Name    : arshia | Bootstrap 4 personal, portfolio and resume
-* Author           : Retrinagroup
-* Version          : 1.0.0
-* Created          : March 2020
+* 
 * File Description : Main js file of the template
 *------------------------------------------------------------
 */
@@ -514,7 +511,7 @@ function sendEmail() {
         $.ajax({
             type: 'POST',
             data: $("#contactForm").serialize(),
-            url:  "sendEmail.php",
+            
             beforeSend: function() {
                 $('#submit-btn').html('<span class="spinner-border spinner-border-sm"></span> Loading..');
             },
