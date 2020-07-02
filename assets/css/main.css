@@ -671,7 +671,7 @@ canvas.particles-js-canvas-el {
   content: '\f103';
   font-family: 'FontAwesome','sans-serif';
   font-size: 20px;
-}
+  }
 
 /*-------------------------
           HERO-03
@@ -964,7 +964,7 @@ canvas.particles-js-canvas-el {
 }
 @media (max-width: 700px){
   .count-item{
-    right: -80px;
+    right: -60px;
   }
 }
 
@@ -1118,7 +1118,7 @@ canvas.particles-js-canvas-el {
   border-radius: 1.25rem;
 }
 
-.professional .professional-item-content:hover .img-overlay-content {
+/*.professional .professional-item-content:hover .img-overlay-content {
   opacity: 1;
 }
 
@@ -1193,7 +1193,7 @@ canvas.particles-js-canvas-el {
 .professional .professional-item-content:hover .img-overlay-content {
 display: none;
 }
-}
+}*/
 
 
 /*-------------------------
@@ -1230,7 +1230,7 @@ display: none;
   border-radius: 1.25rem;
 }
 
-.portfolio .portfolio-item-content:hover .img-overlay-content {
+/*.portfolio .portfolio-item-content:hover .img-overlay-content {
   opacity: 1;
 }
 
@@ -1303,7 +1303,7 @@ display: none;
 .portfolio .portfolio-item-content:hover .img-overlay-content {
 display: all;
 }
-}
+}*/
 
 
 
