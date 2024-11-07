@@ -1,9 +1,9 @@
 ::selection {
-  background: rgba(211, 29, 77, 0.3);
+  background: rgba(255, 182, 193, 0.3);
 }
 
 ::-moz-selection {
-  background: rgba(211, 29, 77, 0.3);
+  background: rgba(255, 182, 193, 0.3);
 }
 
 .pill-button {
