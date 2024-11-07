@@ -133,7 +133,7 @@ a, button {
 }
 
 .dark-bg {
-  background-color: #2c2d30;
+  background-color: #ff7000;
 }
 
 .title-wrapper {
@@ -1645,7 +1645,7 @@ display: all;
     color: #3c3c3c !important;
   }
   .arshia-dark header {
-    background-color: #2c2d30;
+    background-color: #ff7000;
     box-shadow: 0 1px 3px 0 #010101;
   }
   .hero-03 {
@@ -1764,7 +1764,7 @@ display: all;
       arshia DARK
 -------------------------*/
 .arshia-dark .section {
-  background-color: #2c2d30 !important;
+  background-color: #ff7000 !important;
   color: #fafafa;
 }
 
@@ -1777,7 +1777,7 @@ display: all;
 }
 
 .arshia-dark .social-icon a {
-  background-color: #2c2d30;
+  background-color: #ff7000;
   color: #fafafa;
   box-shadow: 3px 3px 3px #202125, -3px -3px 3px #3e3e3e;
 }
@@ -1837,11 +1837,11 @@ display: all;
 .arshia-dark .testimonial .owl-carousel .testimonial-image::before, .arshia-dark .skill-box .skillbar,
 .arshia-dark .blog-item:before, .arshia-dark .blog-image, .arshia-dark .testimonial .owl-carousel .testimonial-image,
 .arshia-dark .blog-single .modal-content, .arshia-dark .portfolio-single .modal-content {
-  background-color: #2c2d30;
+  background-color: #ff7000;
 }
 
 .arshia-dark .box-border, .arshia-dark .box-hover-border, .arshia-dark .button-border, .arshia-dark .image-border {
-  background-color: #2c2d30;
+  background-color: #ff7000;
   box-shadow: 3px 3px 3px #202125, -3px -3px 3px #3e3e3e;
 }
 
@@ -1876,7 +1876,7 @@ display: all;
 }
 
 .arshia-dark .contact .form-item .form-group {
-  background-color: #2c2d30;
+  background-color: #ff7000;
   box-shadow: inset 3px 3px 3px #202125, inset -3px -3px 3px #3e3e3e;
   -webkit-box-shadow: inset 3px 3px 3px #202125, inset -3px -3px 3px #3e3e3e;
   -moz-box-shadow: inset 3px 3px 3px #202125, inset -3px -3px 3px #3e3e3e;
@@ -1982,7 +1982,7 @@ display: all;
       Flat Demo Dark
 -------------------------*/
 .arshia-dark.flat-demo .section {
-  background-color: #2c2d30 !important;
+  background-color: #ff7000 !important;
 }
 
 .arshia-dark.flat-demo .box-hover-border:hover {
@@ -1990,7 +1990,7 @@ display: all;
 }
 
 .arshia-dark.flat-demo .testimonial-image-border, .arshia-dark.flat-demo .blog-image, .arshia-dark.flat-demo .blog-single .modal-content, .arshia-dark.flat-demo .portfolio-single .modal-content {
-  background-color: #2c2d30;
+  background-color: #ff7000;
 }
 
 .arshia-dark.flat-demo .testimonial-image-border img {
@@ -2016,7 +2016,7 @@ display: all;
      Mono Color Light
 -------------------------*/
 .mono #pp-nav li .active span, .mono #pp-nav li:hover span, .mono .follow-label:before, .mono .border-style {
-  background-color: #2c2d30 !important;
+  background-color: #ff7000 !important;
 }
 
 .mono .overlay-menu a:hover {
@@ -2098,7 +2098,7 @@ display: all;
 }
 
 .mono .hero-03 .floating {
-  background: #2c2d30;
+  background: #ff7000;
 }
 
 /*-------------------------
@@ -2270,7 +2270,7 @@ display: all;
     Mono Flat Demo Dark
 -------------------------*/
 .flat-demo.arshia-dark.mono .section {
-  background-color: #2c2d30 !important;
+  background-color: #ff7000 !important;
 }
 
 .flat-demo.arshia-dark.mono .pill-button {
